@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename field &apos;customsFree&apos; in &apos;entities.ImportedProduct&apos; to &apos;customsFee&apos;&#x0D;&#x0A;- Original project: &apos;Ex039_heranca_polimorfismo_exerciciofixacao&apos;&#x0D;&#x0A;- Original element: &apos;entities.ImportedProduct.customsFree&apos;&#x0D;&#x0A;- Renamed element: &apos;entities.ImportedProduct.customsFee&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;customsFree&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;entities{ImportedProduct.java[ImportedProduct^customsFree" name="customsFee" references="true" setter="false" stamp="1673310740772" textual="false" version="1.0"/>
-</session>
