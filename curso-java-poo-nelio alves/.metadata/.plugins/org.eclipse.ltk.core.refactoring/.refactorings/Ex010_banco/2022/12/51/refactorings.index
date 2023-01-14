@@ -1,0 +1,13 @@
+1671212519952	Delete element
+1671235522241	Rename method 'depositValue'
+1671235540394	Rename method 'withdrawValue'
+1671235569312	Rename field 'value'
+1671235591289	Rename local variable 'value'
+1671235605099	Rename local variable 'value'
+1671235612454	Rename local variable 'value'
+1671235627127	Rename local variable 'value'
+1671235649797	Rename method 'getValue'
+1671235660936	Rename method 'setValue'
+1671235694136	Rename local variable 'value'
+1671236914864	Rename method 'getAmount'
+1671236926464	Rename method 'setAmount'

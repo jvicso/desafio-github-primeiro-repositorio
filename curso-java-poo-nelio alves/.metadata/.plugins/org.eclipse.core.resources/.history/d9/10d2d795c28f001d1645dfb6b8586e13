@@ -1,0 +1,13 @@
+package application;
+
+import entities.OutsourcedEmployee;
+
+public class Program {
+
+	public static void main(String[] args) {
+
+		OutsourcedEmployee oe = new OutsourcedEmployee("Bob", 100, 15.00, 200.00);
+		System.out.println(oe.payment());
+	}
+
+}
